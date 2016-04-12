@@ -1,0 +1,1 @@
+SimpleFIFO library is needed to compile the arduino sketch. Put it in your Arduino libraries folder
